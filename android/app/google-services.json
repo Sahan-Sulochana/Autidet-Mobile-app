@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "104528640578",
+    "project_id": "autidet-1-7a670",
+    "storage_bucket": "autidet-1-7a670.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104528640578:android:6cb00e2347efd826b54bdb",
+        "android_client_info": {
+          "package_name": "com.example.Autidet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104528640578-a8f1b1n2avsd0lndl60vjbu1g122i98f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Autidet",
+            "certificate_hash": "2846b6706fccbb701a674634c5000a9f3ed57388"
+          }
+        },
+        {
+          "client_id": "104528640578-hds41f0930mnsv79lp5811k7ah9bpits.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-5WfOXtE-KX7OFjdY5br5TI7zMlOT428"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104528640578-hds41f0930mnsv79lp5811k7ah9bpits.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
